@@ -231,3 +231,6 @@ O NotebookLM demonstrou ser uma excelente ferramenta de aprendizagem, permitindo
 **Argemiro Carneiro de Oliveira Neto**
 
 Projeto desenvolvido como parte do desafio da DIO sobre o uso do NotebookLM para aprendizagem ativa com Inteligência Artificial.
+
+Meu Logotipo do NotebookLM: 
+https://notebooklm.google.com/notebook/e6eeef8b-d6eb-484f-b741-19c32131a3fa
