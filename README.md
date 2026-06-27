@@ -1,4 +1,3 @@
-# miniguia-estudos-notebooklm
 # 📚 Miniguia de Estudos com NotebookLM
 
 ## 🚀 Desafio DIO - Aprendendo com IA Generativa
